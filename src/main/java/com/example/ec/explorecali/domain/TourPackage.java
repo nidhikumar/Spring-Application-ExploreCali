@@ -1,4 +1,4 @@
-package com.example.ec.domain;
+package com.example.ec.explorecali.domain;
 
 import java.util.Objects;
 
